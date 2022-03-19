@@ -11,33 +11,22 @@ Screenshots
 ChangeLog
 -------
 ### 1.0.8 Beta Build 005
-- 修改导出子项目时，项目大小的判定规则
-- 修复删除子项目时崩溃的问题
+- Modify the rules for determining the size of items when exporting sub-items
+- Fixed crash when deleting sub-items
 
 ### 1.0.8 Alpha Build 002
-- 增加编辑产品列表功能
-- 增加对R018, R019的子项目解析支持
-- 增加对V5固件的子项目对齐支持
-- Bug修复
+- Add the function of editing product list
+- Added sub-project parsing support for R018, R019
+- Added subproject alignment support for V5 firmware
+- Bug fixes
 
 ### 1.0.4 Alpha Build 001
-- 增加浏览支持的产品型号功能
+- Added the function of browsing supported product models
 
 ### 1.0.3 Alpha Build 003
-- 增加高级数据格式的编辑功能
-- 细节修复
-- 代码缩进优化
-
-Donate
--------
-如果本软件对你有帮助，请考虑捐赠作者，以支持其继续开发！  
-If the software is helpful to you, please consider donating the author to support its continued development!
-
-#### 微信 (WeChat)
-![PREVIEW](./HWFW_GUI/wechat.bmp)
-
-#### 支付宝 (Alipay)
-![PREVIEW](./HWFW_GUI/alipay.bmp)
+- Added editing function for advanced data format
+- detail fixes
+- Code indentation optimization
 
 License
 -------
